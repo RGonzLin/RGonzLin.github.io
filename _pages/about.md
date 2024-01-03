@@ -16,4 +16,4 @@ redirect_from:
 
 📖👁️ Currently, my main interests lie in the fields of Natural Language Processing and Computer Vision.
 
-🤓 Feel free to take a look at my [Blog Posts](https://rgonzlin.github.io/year-archive/), including my [latest](https://rgonzlin.github.io/posts/2012/08/blog-post-1/) discussing how state-of-the-art models, mainly transformers, are revolutionizing protein folding prediction and de novo protein design.
+🤓 Feel free to take a look at my [Blog Posts](https://rgonzlin.github.io/year-archive/), including my [latest](https://rgonzlin.github.io/posts/2012/08/blog-post-1/) discussing how state-of-the-art models (mainly transformers) are revolutionizing protein folding prediction and de novo protein design.
