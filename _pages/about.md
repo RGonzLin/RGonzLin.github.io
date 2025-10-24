@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
    
-💻🧠 I am a recent graduate with a Master's degree in Artificial Intelligence.
+💻🧠 I am an AI Engineer with a Master's degree in Artificial Intelligence.
 
 🧬🔬 My background is in Biotech Engineering and Nanobiology (biophysics x10<sup>-9</sup>).
 
